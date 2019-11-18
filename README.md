@@ -28,6 +28,8 @@ This is a repository that I have created to track my progress in Data Science an
 
 #### Articles Worth Reading
 - [Comparing Different Classification Machine Learning Models for an imbalanced dataset](https://towardsdatascience.com/comparing-different-classification-machine-learning-models-for-an-imbalanced-dataset-fdae1af3677f) 
+- 
+- [Finding Your Best Customers With Customer Segmentation](https://towardsdatascience.com/find-your-best-customers-with-customer-segmentation-in-python-61d602f9eee6)
 
 
 #### Repositories
